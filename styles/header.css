@@ -1,0 +1,50 @@
+.nav-one {
+   width: 90vw;
+   height: 50px;
+   border-bottom: 1px solid #1111;
+   margin: auto;
+   display: flex;
+   
+   
+}
+
+.logo-site{
+    width: 140px;
+    height: 50px;
+    
+    
+}
+
+.logo-img{
+    width: 110px;
+    cursor: pointer;
+    margin: auto;
+    padding-right: 12px;
+    padding-top: 12px;
+}
+
+.mid-div{
+    width: 90%;
+}
+
+.basket{
+    float: left;
+    padding-top: 10px;
+    width: 100px;
+    
+}
+.a-basket{
+    display: flex;
+}
+
+.span-basket{
+    height: 18px;
+    font-size: 12px;
+    border-radius: 4px;
+    padding-left: 7px;
+    padding-right: 7px;
+    margin-top: 10px;
+    background-color: rgb(253, 29, 85);
+    color: aliceblue;
+    z-index: 10;
+}
